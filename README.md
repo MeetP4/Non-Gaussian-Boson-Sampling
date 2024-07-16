@@ -3,21 +3,21 @@ This Python program allows you to study the interference patterns of a family of
 
 To Run: </br>
 
-In order to obtain correlation analysis results as well as tabulated probabilities, set input states in the file</br>
+In order to obtain correlation analysis results as well as tabulated probabilities, set input states in the file **photon_correlation.py**:</br>
 
-states = (np.array([1,1]),np.array([1,1]))  </br>
-It means 2 input states of light  $\frac{1}{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$ interfering in an optical network</br>
+**states = (np.array([1,1]),np.array([1,1]))**  </br>
+It means 2 input states of light  **$\frac{1}{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$** interfering in an optical network</br>
 
-states = (np.array([1,1]),np.array([1,1]), np.array([1,1]))  </br>
-It means 3 input states of light  $\frac{1}{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$ interfering in an optical network</br>
+**states = (np.array([1,1]),np.array([1,1]), np.array([1,1]))**  </br>
+It means 3 input states of light  **$\frac{1}{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$** interfering in an optical network</br>
 
 
-states = (np.array([1,1,1]),np.array([1,1,1]))  </br>
-It means 2 input states of light  $\frac{1}{\sqrt{3}}\left(\ket{0} + \ket{1} + \ket{2}\right)$ interfering in an optical network</br>
+**states = (np.array([1,1,1]),np.array([1,1,1]))**  </br>
+It means 2 input states of light  **$\frac{1}{\sqrt{3}}\left(\ket{0} + \ket{1} + \ket{2}\right)$** interfering in an optical network</br>
 
 
 Run: </br>
-python photon_correlation.py </br>
+**python photon_correlation.py** </br>
 
 
 Master's Thesis </br>
