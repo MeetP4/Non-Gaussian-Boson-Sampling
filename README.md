@@ -1,12 +1,13 @@
 # Non-Gaussian Boson Sampling
 This Python program allows you to study the interference patterns of a family of non-Gaussian states of light in arbitrary optical networks.
 
-To Run:
-set input states in the driver_code.py for just obtaining the probabilities
-python driver_code.py
+To Run: </br>
 
-in order to get correlation analysis results
-python analysis.py
+Set input states in the driver_code.py for just obtaining the probabilities and run: </br>
+python driver_code.py </br>
+
+In order to get correlation analysis results </br>
+python photon_correlation.py </br>
 
 Master's Thesis </br>
 Czech Technical University Prague </br>
