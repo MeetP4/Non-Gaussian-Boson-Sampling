@@ -5,7 +5,9 @@ To Run: </br>
 
 In order to obtain correlation analysis results as well as tabulated probabilities, set input states in the file and run: </br>
 states = (np.array([1,1]),np.array([1,1])) </br>
-It means 2 input states of light  $1/\sqrt{2}\left(\ket{0} + \ket{1}\right)$ 
+It means 2 input states of light  $\frac{1}/{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$ </br>
+states = (np.array([1,1]),np.array([1,1]), np.array([1,1])) interfering in an optical network </br>
+It means 3 input states of light  $\frac{1}/{\sqrt{2}}\left(\ket{0} + \ket{1}\right)$ interfering in an optical network</br>
 python photon_correlation.py </br>
 
 
