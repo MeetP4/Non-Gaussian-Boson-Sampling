@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+strawberryfields
+thewalrus
+numba
+numdifftools
+sympy
+pytest
