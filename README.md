@@ -3,10 +3,10 @@ This Python program allows you to study the interference patterns of a family of
 
 To Run: </br>
 
-Set input states in the driver_code.py for just obtaining the probabilities and run: </br>
+In order to just obtain the tabulated probabilities of output configuration, set input states in the file driver_code.py  </br>
 python driver_code.py </br>
 
-In order to get correlation analysis results </br>
+In order to get correlation analysis results as well as tabulated probabilities, set input states in the file and run: </br>
 python photon_correlation.py </br>
 
 Master's Thesis </br>
